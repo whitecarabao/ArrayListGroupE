@@ -4,7 +4,9 @@ Array List Operations Group Assignment (GROUP E)
 Check commits for work history!
 
 Daryll Gomez - (addElement(), removeElement(), printList())
+
 Jonathan Kent Morales
+
 Jaime Lapiz
 
 
