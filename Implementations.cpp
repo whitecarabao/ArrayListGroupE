@@ -21,6 +21,7 @@ void removeElement(List& list, int delPos) {
 	int c;
 	if (delPos >= MAX_SIZE + 1)
 		printf("Deletion not possible.\n");
+
 	else
 	{
 		for (c = delPos - 1; c < MAX_SIZE - 1; c++)

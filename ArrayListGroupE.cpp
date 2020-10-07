@@ -11,6 +11,7 @@ void main() {
 	printList(list);
 
 	addElement(list, 100, START);
+
 	addElement (list, 200, LAST);
 	addElement(list, 300, 5);
 	printf("\nNew List:\n");
